@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/ac-rad.github.io/static/css/main.53394b37.css",
+    "main.js": "/ac-rad.github.io/static/js/main.61e0fbab.js",
+    "static/js/496.43302cff.chunk.js": "/ac-rad.github.io/static/js/496.43302cff.chunk.js",
+    "static/media/banner_video.mp4": "/ac-rad.github.io/static/media/banner_video.0d4fd5f9c42191b45fb6.mp4",
+    "static/media/Andrew Ilersich.png": "/ac-rad.github.io/static/media/Andrew Ilersich.864fddc0fa863f928490.png",
+    "static/media/Irwin Ngo.png": "/ac-rad.github.io/static/media/Irwin Ngo.a4126d7c8e72d1d96608.png",
+    "static/media/Parth Dua.jpg": "/ac-rad.github.io/static/media/Parth Dua.7395d45382079b21d855.jpg",
+    "static/media/Ghamr Saeed.jpg": "/ac-rad.github.io/static/media/Ghamr Saeed.6420b73427bba9a3985c.jpg",
+    "static/media/Ling Bi.jpg": "/ac-rad.github.io/static/media/Ling Bi.a783f67753b690e48abb.jpg",
+    "static/media/linkedin.png": "/ac-rad.github.io/static/media/linkedin.b1bebb391a157454d569.png",
+    "static/media/clairify.jpg": "/ac-rad.github.io/static/media/clairify.472849c47d2d18660161.jpg",
+    "static/media/Ben Goodchild.JPG": "/ac-rad.github.io/static/media/Ben Goodchild.60f7ea9b74c0cd3f61ec.JPG",
+    "static/media/digital-pipette.jpg": "/ac-rad.github.io/static/media/digital-pipette.caaba9479df47e8e9ee5.jpg",
+    "static/media/robot-chemist-tamp.jpg": "/ac-rad.github.io/static/media/robot-chemist-tamp.faaa06799f4595ed0176.jpg",
+    "static/media/Torin Anderson.jpg": "/ac-rad.github.io/static/media/Torin Anderson.c4b837adf206a6f17cfa.jpg",
+    "static/media/world.png": "/ac-rad.github.io/static/media/world.a32bd8b1560dc8905497.png",
+    "static/media/utoph-icon.png": "/ac-rad.github.io/static/media/utoph-icon.cc25773ee35205fd47fe.png",
+    "index.html": "/ac-rad.github.io/index.html",
+    "main.53394b37.css.map": "/ac-rad.github.io/static/css/main.53394b37.css.map",
+    "main.61e0fbab.js.map": "/ac-rad.github.io/static/js/main.61e0fbab.js.map",
+    "496.43302cff.chunk.js.map": "/ac-rad.github.io/static/js/496.43302cff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53394b37.css",
+    "static/js/main.61e0fbab.js"
+  ]
+}
