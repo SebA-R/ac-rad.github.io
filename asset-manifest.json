@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ac-rad.github.io/static/css/main.1b5230a1.css",
-    "main.js": "/ac-rad.github.io/static/js/main.e1c01788.js",
+    "main.css": "/ac-rad.github.io/static/css/main.08ab81e2.css",
+    "main.js": "/ac-rad.github.io/static/js/main.c4b61013.js",
     "static/js/846.b0fc7df4.chunk.js": "/ac-rad.github.io/static/js/846.b0fc7df4.chunk.js",
     "static/js/695.d1522519.chunk.js": "/ac-rad.github.io/static/js/695.d1522519.chunk.js",
     "static/js/816.3a2805ee.chunk.js": "/ac-rad.github.io/static/js/816.3a2805ee.chunk.js",
@@ -19,12 +19,12 @@
     "static/media/robot-chemist-tamp.jpg": "/ac-rad.github.io/static/media/robot-chemist-tamp.2c7bc04254caa29bf011.jpg",
     "static/media/transproteus.gif": "/ac-rad.github.io/static/media/transproteus.3adac2c5305fa91af05f.gif",
     "index.html": "/ac-rad.github.io/index.html",
-    "main.1b5230a1.css.map": "/ac-rad.github.io/static/css/main.1b5230a1.css.map",
-    "main.e1c01788.js.map": "/ac-rad.github.io/static/js/main.e1c01788.js.map",
+    "main.08ab81e2.css.map": "/ac-rad.github.io/static/css/main.08ab81e2.css.map",
+    "main.c4b61013.js.map": "/ac-rad.github.io/static/js/main.c4b61013.js.map",
     "496.43302cff.chunk.js.map": "/ac-rad.github.io/static/js/496.43302cff.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b5230a1.css",
-    "static/js/main.e1c01788.js"
+    "static/css/main.08ab81e2.css",
+    "static/js/main.c4b61013.js"
   ]
 }
